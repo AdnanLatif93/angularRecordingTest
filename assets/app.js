@@ -37,7 +37,7 @@ class App {
       this.btnRecord.disabled = false
       this.btnStop.disabled = true
       this.debugTxt.innerHTML = "stopped"
-    })
+    })f
   }
 
   _startRecording () {
